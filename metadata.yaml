@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '7894'
     url: http://www.gutenberg.org/2009/agents/7894
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/23755#Birds-of-the-Indian-Hills
 gutenberg_bookshelf:
 - India
 - Animals-Wild-Birds
